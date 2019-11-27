@@ -75,8 +75,11 @@ Was ist der Unterschied zwischen einer Library und einem Framework?
 Mit welcher IDE können Sie relativ leicht eine eigene Währung für die Ethereum Blockchain entwickeln?  
 **Z.B. mit https://remix.ethereum.org/**
 
-Was ist NodeJS?
+Was ist NodeJS?  
 **Eine JavaScript Laufzeitumgebung aka. JavaScript Runtime Environment (RTE)**
+
+Was ist eine Laufzeitumgebung?  
+Eine Laufzeitumgebung lädt von Anwendungsprogrammierern entwickelte Programme und lässt diese auf einer Plattform ablaufen, für welche die Laufzeitumgebung gemacht worden ist. Damit stellt sie selbst eine kleine „Plattform“ dar, auf der Programme aufsetzen können.
 
 
 ## Telegram 
