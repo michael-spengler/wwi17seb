@@ -1,3 +1,18 @@
+1. Vorlesung
+
+https://nodejs.org/en/ = Laufzeitumgebun
+
+https://code.visualstudio.com/insiders/
+
+https://docs.nestjs.com/ 
+Framework für die effiziente Entwicklung von Code, der auf dem Server in der NodeJS Laufzeitumgebung ausgeführt wird.
+
+https://angular.io/
+Framework für die effiziente Entwicklung von Code, der im Browser ausgeführt wird.
+
+
+
+
 ## Plattformen und Frameworks
 
 ### HTML Tutorials ...
