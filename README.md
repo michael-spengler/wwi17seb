@@ -1,6 +1,6 @@
 1. Vorlesung
 
-https://nodejs.org/en/ = Laufzeitumgebun
+https://nodejs.org/en/ = Laufzeitumgebung
 
 https://code.visualstudio.com/insiders/
 
