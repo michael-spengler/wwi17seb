@@ -1,4 +1,4 @@
-1. Vorlesung
+
 
 https://nodejs.org/en/ = Laufzeitumgebung
 
@@ -19,10 +19,14 @@ Framework für die effiziente Entwicklung von Code, der im Browser ausgeführt w
 https://www.w3schools.com/
 
 ### Einen Server organisieren
+z.B. bei hetzner.de - Kosten ca. 3 Euro pro Monat
+Die IP Adresse unseres Servers: 78.47.246.74
 
 ### Eine Domain registrieren
+www.play-and-succeed.de
 
 ### Weiterleitung zu unserem Server einrichten
+
 
 ### Starting with TypeScript
 http://www.typescriptlang.org/  
@@ -38,7 +42,7 @@ https://angular.io/guide/setup-local
 https://www.npmjs.com/ - ein Beispiel für ein Modul im Bereich **Natural Language Processing**: https://www.npmjs.com/package/node-nlp
 
 ### Unser Telegram Chatbot
-https://t.me/wwi18dsa_bot
+
 
 
 
