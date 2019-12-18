@@ -82,10 +82,10 @@ Was ist Ihre Lieblings Library bei npmjs.com und warum?
 Was ist der Unterschied zwischen Backend Code und Frontend Code?  
 **Frontend Code wird im Browser ausgeführt. Backend Code wird auf dem Server ausgeführt.**
 
-Was ist Ihr Lieblingsframework zur Unterstützung einer effizienten Implementierung von Frontend Code?  
+Was ist Ihr Lieblingsframework zur Unterstützung einer effizienten Implementierung von Frontend Code - und warum?  
 **tbd :)**
 
-Was ist Ihr Lieblingsframework zur Unterstützung einer effizienten Implementierung von Backend Code?  
+Was ist Ihr Lieblingsframework zur Unterstützung einer effizienten Implementierung von Backend Code - und warum?  
 **tbd :)**
 
 Was ist der Unterschied zwischen einer Library und einem Framework?  
@@ -99,6 +99,24 @@ Was ist NodeJS?
 
 Was ist eine Laufzeitumgebung?  
 Eine Laufzeitumgebung lädt von Anwendungsprogrammierern entwickelte Programme und lässt diese auf einer Plattform ablaufen, für welche die Laufzeitumgebung gemacht worden ist. Damit stellt sie selbst eine kleine „Plattform“ dar, auf der Programme aufsetzen können.
+
+Was ist der Unterschied zwischen Git und GitHub?
+
+Wodurch entstehen Mergekonflikte?
+
+Beschreiben Sie den typischen Prozess wenn Sie zu einem Open Source Projekt / Open Source Repository beitragen möchten.
+1. Fork the repository
+2. Implement your changes / enhancements
+3. commit & push your changes
+4. create a Pull Request
+
+Beschreiben Sie den Prozess wenn Sie eine Webseite per GitHub Pages an den User liefern lassen möchten.
+1. Add the GitHub IP Adresses as A-Record at your Domain Provider
+2. Visit the Settings Tab in your Repository & scroll down to the GitHub Pages Settings
+3. Enter your Domain in the corresponding input field
+4. Add the "CNAME" file in your project and enter your domain - e.g. play-and-succeed.de
+
+
 
 
 ## Telegram 
