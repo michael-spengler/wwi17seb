@@ -116,8 +116,16 @@ Beschreiben Sie den Prozess wenn Sie eine Webseite per GitHub Pages an den User 
 3. Enter your Domain in the corresponding input field
 4. Add the "CNAME" file in your project and enter your domain - e.g. play-and-succeed.de
 
+Warum ist es sinnvoll Node Module in der Entwicklung Ihrer Anwendung zu nutzen?
 
 
+In welcher Datei finden Sie die Dependencies (Node Module) in einem NodeJS Projekt?
+In der package.json
+
+Welche Open Source Lizensvereinbarungen kennen Sie?
+**MIT, GNU GPL, ...**  
+
+Warum glauben Sie wird in den letzten Jahren sehr viel mehr JavaScript Code prozessiert als von 10 Jahren?
 
 ## Telegram 
 0049 151 67 83 38 69
