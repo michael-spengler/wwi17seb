@@ -1,8 +1,8 @@
-
+## Installationshinweise
 
 https://nodejs.org/en/ = Laufzeitumgebung
 
-https://code.visualstudio.com/insiders/
+https://code.visualstudio.com/insiders/ = Entwicklungsumgebung (IDE)
 
 https://docs.nestjs.com/ 
 Framework für die effiziente Entwicklung von Code, der auf dem Server in der NodeJS Laufzeitumgebung ausgeführt wird.
@@ -11,21 +11,19 @@ https://angular.io/
 Framework für die effiziente Entwicklung von Code, der im Browser ausgeführt wird.
 
 
-
-
-## Plattformen und Frameworks
-
 ### HTML Tutorials ...
 https://www.w3schools.com/
 
-### Einen Server organisieren
+
+### Exkurs: Server organisieren & Domain registrieren 
+**Server Organisieren**
 z.B. bei hetzner.de - Kosten ca. 3 Euro pro Monat
 Die IP Adresse unseres Servers: 78.47.246.74
 
-### Eine Domain registrieren
-www.play-and-succeed.de
+**Eine Domain registrieren**
+www.play-and-succeed.de - z.B. bei goneo.de oder bei domainssaubillig.de
 
-### Weiterleitung zu unserem Server einrichten
+Danach haben wir eine Weiterleitung für die Domain zu unserem Server (um genauer zu sein zu dessen IP Adresse) eingerichtet.
 
 
 ### Starting with TypeScript
@@ -39,10 +37,10 @@ https://docs.nestjs.com/
 https://angular.io/guide/setup-local
 
 ### Open Source NPM Module
-https://www.npmjs.com/ - ein Beispiel für ein Modul im Bereich **Natural Language Processing**: https://www.npmjs.com/package/node-nlp
+https://www.npmjs.com/   
 
-### Unser Telegram Chatbot
-
+ein Beispiel für ein Modul im Bereich **Natural Language Processing**: https://www.npmjs.com/package/node-nlp
+ein Beispiel für ein Modul im Bereich Chatbots für Telegram: https://www.npmjs.com/package/telebot
 
 
 
@@ -100,9 +98,17 @@ Was ist NodeJS?
 Was ist eine Laufzeitumgebung?  
 Eine Laufzeitumgebung lädt von Anwendungsprogrammierern entwickelte Programme und lässt diese auf einer Plattform ablaufen, für welche die Laufzeitumgebung gemacht worden ist. Damit stellt sie selbst eine kleine „Plattform“ dar, auf der Programme aufsetzen können.
 
-Was ist der Unterschied zwischen Git und GitHub?
+Was ist der Unterschied zwischen Git und GitHub?  
+tbd
 
-Wodurch entstehen Mergekonflikte?
+Wodurch entstehen Mergekonflikte?  
+tbd
+
+Was ist ein A-Record? 
+https://support.dnsimple.com/articles/a-record/
+
+Wie können Sie herausfinden auf welche IP Adresse eine Domain wie play-and-succeed.de zeigt?  
+**ping play-and-succeed.de**
 
 Beschreiben Sie den typischen Prozess wenn Sie zu einem Open Source Projekt / Open Source Repository beitragen möchten.
 1. Fork the repository
@@ -117,7 +123,7 @@ Beschreiben Sie den Prozess wenn Sie eine Webseite per GitHub Pages an den User 
 4. Add the "CNAME" file in your project and enter your domain - e.g. play-and-succeed.de
 
 Warum ist es sinnvoll Node Module in der Entwicklung Ihrer Anwendung zu nutzen?
-
+tbd
 
 In welcher Datei finden Sie die Dependencies (Node Module) in einem NodeJS Projekt?
 In der package.json
